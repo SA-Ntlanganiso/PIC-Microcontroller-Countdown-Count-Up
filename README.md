@@ -6,11 +6,7 @@
 
 ---
 
-## 📹 Live Demonstration
-🎥 **[View Assembly in Action](https://github.com/SA-Ntlanganiso/PIC-Microcontroller-Countdown-Count-Up/blob/main/coa_projectImage.png)**  
-*(Replace with actual video link if available)*
 
----
 
 ## 🌟 Core Features
 | Feature | Emoji | Description |
